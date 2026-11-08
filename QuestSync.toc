@@ -1,0 +1,14 @@
+## Interface: 16001
+## Title: |cFF33CCFFQuestSync|r
+## Notes: Compares the quests of everyone in your group and shows who is missing which one.
+## Notes-esMX: Compara las misiones de todos los del grupo y te dice quién tiene cuál.
+## Notes-esES: Compara las misiones de todos los del grupo y te dice quién tiene cuál.
+## Author: tonymontana
+## Version: 1.0.0
+## Category: Quests
+## X-License: MIT
+## IconTexture: Interface\Icons\INV_Misc_Book_08
+## OptionalDeps: Questie
+## SavedVariables: QuestSyncDB
+
+QuestSync.lua
